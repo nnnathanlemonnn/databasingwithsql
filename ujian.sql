@@ -1,11 +1,4 @@
 
-/*
- - nomor peserta
- - nama peserta
- - asal provinsi
- - nilai akhir
- */
-
 INSERT INTO olipiade_matematika
 VALUES('1', 'Dian', 'Aceh', '89.36');
 
@@ -35,6 +28,13 @@ VALUES('9', 'Thomas', 'Maluku', '95.5');
 
 INSERT INTO olipiade_matematika
 VALUES('10', 'kenshi', 'Sumatra Utara', '92.00');
+
+/*
+ - nomor peserta
+ - nama peserta
+ - asal provinsi
+ - nilai akhir
+ */
 
 
 
